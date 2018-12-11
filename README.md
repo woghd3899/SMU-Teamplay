@@ -3,6 +3,6 @@
 * 구성원 : 구주희, 권다희, 서재홍, 이현석, 항자함
 
 
-*https://www.slideshare.net/Kwoooon/bigdata-4
+* 슬라이드쉐어 : https://www.slideshare.net/Kwoooon/bd-4-final
 
-*https://public.tableau.com/profile/k.sin#!/vizhome/2_3998/1_1
+* 태블로 : https://public.tableau.com/profile/k.sin#!/vizhome/2_3998/1_1
